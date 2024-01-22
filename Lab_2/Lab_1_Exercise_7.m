@@ -9,7 +9,7 @@ z=10.*x.*y;
 
 subplot(3, 1, 1), plot(t, x);
 xlabel('Time');
-ylabel('Value of ');
+ylabel('Value of x');
 grid on;
 subplot(3, 1, 2), plot(t, y);
 xlabel('Time');
