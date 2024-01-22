@@ -2,7 +2,7 @@ clc;
 clear;
 close all;
 
-x=rand(10);
+x=rand(1,10);
 a=x>=.5;
 y=x(a)
 
